@@ -1,3 +1,11 @@
+# FMADD fork attribution
+
+Football Manager ADD (FMADD) is angsomeli's fork of [Kasnm1/football-manager-ODD](https://github.com/Kasnm1/football-manager-ODD). Original authorship and applicable terms remain unchanged. This fork does not relicense upstream or third-party materials. Upstream support and donation channels belong to the original FMODD author.
+
+FMADD 更名不改变原作者署名、非商业使用要求及第三方材料的权利归属。
+
+---
+
 # FMODD source and third-party materials notice
 
 This public source snapshot is provided by the project maintainer. Any project

@@ -1,3 +1,18 @@
+# Football Manager ADD (FMADD)
+
+[English](README.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko-KR.md)
+
+FMADD는 angsomeli가 [Football Manager ODD](https://github.com/Kasnm1/football-manager-ODD)를 기반으로 개발하는 개인 포크입니다. 상위 프로젝트의 V2.7.0beta 소스를 계승합니다.
+
+선수 목록/카드 전환과 사용자 지정 열은 계획 단계입니다. 스폰서, 경기장, 도시 편집과 새 선수 생성은 연구 단계이며 아직 구현하거나 검증하지 않았습니다.
+
+[문서](docs/README.md) · [개발 계획](docs/development/PERSONAL_PROJECT_PLAN.zh-CN.md) · [참고 프로젝트](docs/development/FM26_REFERENCES.zh-CN.md) · [ADD 문제 제보](https://github.com/angsomeli/football-manager-ADD/issues)
+
+호환성을 위해 내부 fmodd 이름과 저장 경로를 유지합니다. UI 명칭 변경은 별도로 진행합니다. 아래는 원래 FMODD 문서이며, 다운로드와 후원 링크는 원래 개발자에게 연결됩니다. 원래 저작권, 비상업적 이용 조건 및 제3자 고지는 유지됩니다.
+
+<details>
+<summary>원래 FMODD 문서</summary>
+
 <div align="center">
 
 <img src="docs/assets/fmodd-banner.svg" alt="FMODD · Football Manager ODD · Club management, player development and match play" width="100%" />
@@ -147,3 +162,6 @@ FMODD는 Sports Interactive, SEGA 및 FMRTE와 공식 제휴 관계가 없는 �
 [웹사이트](https://fmodd.com) &nbsp; / &nbsp; [다운로드](https://fmodd.com/download) &nbsp; / &nbsp; [기여](CONTRIBUTING.md)
 
 </div>
+
+
+</details>

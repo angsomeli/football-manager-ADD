@@ -1,8 +1,8 @@
-# FMODD 开发手册
+# FMADD 开发手册
 
-本文记录 FMODD 的依赖准备、源码运行、日常修改和验证。文档职责与阅读顺序见 `docs/README.md`，项目结构与模块职责见 `docs/ARCHITECTURE.md`，面向使用者的概览见 `README.md`，自动化代理必须遵守的仓库约定见 `AGENTS.md`。本文是操作手册，不扩大用户对修改、Git 或发布操作的授权范围。
+本文记录 FMADD 的依赖准备、源码运行、日常修改和验证。文档职责与阅读顺序见 `docs/README.md`，项目结构与模块职责见 `docs/ARCHITECTURE.md`，面向使用者的概览见 `README.md`，自动化代理必须遵守的仓库约定见 `AGENTS.md`。本文是操作手册，不扩大用户对修改、Git 或发布操作的授权范围。
 
-本仓库提供开发版源码及运行说明。现有 Windows 成品可从 [官网](https://fmodd.com/download) 获取。
+本仓库提供开发版源码及运行说明。上游 Windows 成品可从 [FMODD 官网](https://fmodd.com/download) 获取，不包含 ADD 修改。
 
 ## 1. 当前基线
 
@@ -10,7 +10,7 @@
 - 开发服务端口：`7857`。
 - 正式桌面服务端口：`7856`。
 - 桌面宿主目标框架：`.NET Framework 4.8`（`net48`）。
-- GitHub 公共仓库：`https://github.com/Kasnm1/football-manager-ODD`。
+- GitHub 公共仓库：`https://github.com/angsomeli/football-manager-ADD`。
 
 当前版本由 `src/fm_odds_web.py` 的版本常量、README 与桌面源码维护。
 
