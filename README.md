@@ -11,7 +11,7 @@ Planned work: personnel table/card switching, selectable columns, sorting, filte
 - [Documentation](docs/README.md) · [Development setup](docs/guides/GETTING_STARTED.md)
 - [ADD issues](https://github.com/angsomeli/football-manager-ADD/issues)
 
-Internal fmodd module names, configuration keys and build filenames remain compatible; UI branding migration is separate. Upstream downloads do not include ADD changes.
+Internal fmodd module names, configuration keys and build filenames remain compatible; The main web and desktop titles now use FMADD; remaining upstream UI copy and icons are being reviewed. Upstream downloads do not include ADD changes.
 
 Original authorship, upstream non-commercial-use requirements and third-party notices remain applicable. The original documentation below is retained for attribution and baseline reference. Its websites, donations, email and releases belong to **upstream FMODD**, not ADD.
 

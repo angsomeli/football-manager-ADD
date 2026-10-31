@@ -232,7 +232,7 @@ class NativeProcess:
 
 
 def message(message_text: str, error: bool = False) -> None:
-    ctypes.windll.user32.MessageBoxW(None, message_text, "FMODD V2.7.0beta", 0x10 if error else 0x40)
+    ctypes.windll.user32.MessageBoxW(None, message_text, "FMADD V2.7.0beta", 0x10 if error else 0x40)
 
 
 def close_controllers(state: LocalOddsState) -> None:
