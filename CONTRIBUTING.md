@@ -1,14 +1,14 @@
-# Contributing to Football Manager ODD
+# Contributing to Football Manager ADD
 
-Welcome to FMODD! Share a reproducible issue, suggest a feature or submit a focused pull request. The maintainer reviews contributions as time and energy allow.
+Welcome to FMADD! Share a reproducible issue, suggest a feature or submit a focused pull request. The maintainer reviews contributions as time and energy allow.
 
 欢迎通过 Issue 报告问题、提出建议，通过 Pull Request 提交改进。维护者按时间与精力处理反馈和贡献。
 
 ## Report an issue
 
-Include the FMODD version, exact Football Manager build, Steam/Epic/XGP distribution, reproduction steps, expected behaviour and actual result. Remove personal information from logs and screenshots. Keep saves, account files, credentials, proprietary binaries and memory dumps private.
+Include the FMADD version, exact Football Manager build, Steam/Epic/XGP distribution, reproduction steps, expected behaviour and actual result. Remove personal information from logs and screenshots. Keep saves, account files, credentials, proprietary binaries and memory dumps private.
 
-请提供 FMODD 版本、Football Manager 精确版本及发行平台、复现步骤、预期与实际结果。日志和截图先移除个人信息；存档、账户文件、凭据、商业软件二进制和内存转储请保留在本机。
+请提供 FMADD 版本、Football Manager 精确版本及发行平台、复现步骤、预期与实际结果。日志和截图先移除个人信息；存档、账户文件、凭据、商业软件二进制和内存转储请保留在本机。
 
 ## Submit a pull request
 

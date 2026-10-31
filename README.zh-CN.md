@@ -1,3 +1,28 @@
+# Football Manager ADD（FMADD）
+
+[English](README.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko-KR.md)
+
+FMADD 是 angsomeli 基于 [Kasnm1/football-manager-ODD](https://github.com/Kasnm1/football-manager-ODD) 建立的个人开发分支。当前以人员浏览效率和原生游戏数据编辑研究为重点。
+
+| 方向 | 当前状态 |
+| --- | --- |
+| 上游俱乐部、人员、财务、设施等功能 | 继承 V2.7.0beta 源码，兼容性依精确游戏构建判断 |
+| 人员列表 / 卡片切换、自选字段、排序筛选、保存视图 | 开发计划，尚未实现 |
+| 原生赞助、球场、城市编辑 | 研究中，须逐字段验证 |
+| 在现有存档中新增自创球员 | 研究中，尚未实现或验证 |
+
+- [开发计划](docs/development/PERSONAL_PROJECT_PLAN.zh-CN.md)
+- [FM26 参考项目调研](docs/development/FM26_REFERENCES.zh-CN.md)
+- [文档目录](docs/README.md) · [源码运行](docs/guides/GETTING_STARTED.zh-CN.md)
+- [ADD 问题反馈](https://github.com/angsomeli/football-manager-ADD/issues)
+
+对外名称为 Football Manager ADD / FMADD。内部 fmodd 模块、配置键、数据目录和构建文件名暂时保留，网页主标题、侧栏名称、确认框标题和桌面窗口标题已改为 FMADD；其余历史界面文案与图标仍待逐项迁移。上游安装包不含 ADD 修改。功能入口、数据读取和可持久化写入是不同的完成程度。
+
+保留原作者署名、上游非商业使用要求和第三方声明。下方原始文档中的官网、邮箱、捐赠与下载均属于 **FMODD 上游**，不是 ADD 的联系或收款渠道。更名不改变原有权利归属。
+
+<details>
+<summary>上游 FMODD 原始说明（保留来源及权利声明）</summary>
+
 <div align="center">
 
 <img src="docs/assets/fmodd-banner.svg" alt="FMODD · Football Manager ODD · Club management, player development and match play" width="100%" />
@@ -156,3 +181,6 @@ FMODD 是社区制作的非官方项目，与 Sports Interactive、SEGA 或 FMRT
 [官网](https://fmodd.com) &nbsp; / &nbsp; [下载](https://fmodd.com/download) &nbsp; / &nbsp; [贡献](CONTRIBUTING.md)
 
 </div>
+
+
+</details>

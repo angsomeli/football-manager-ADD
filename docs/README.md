@@ -1,6 +1,11 @@
-# FMODD documentation
+# FMADD documentation
 
 Start here to find the right guide. Product homepages are available in [English](../README.md), [简体中文](../README.zh-CN.md) and [한국어](../README.ko-KR.md). Detailed technical documents are mainly in Chinese.
+
+FMADD is angsomeli's development fork. Historical guides, support materials and notices retain their upstream identity.
+
+- [ADD development plan](development/PERSONAL_PROJECT_PLAN.zh-CN.md)
+- [FM26 reference projects](development/FM26_REFERENCES.zh-CN.md)
 
 ## Getting started · 入门 · 시작하기
 
@@ -10,7 +15,7 @@ Start here to find the right guide. Product homepages are available in [English]
 | [Product guide](guides/PRODUCT_GUIDE.md) | Detailed features and game compatibility |
 | [Development manual](development/DEVELOPMENT.md) | Windows environment, source runtime and focused verification |
 | [Contributing](../CONTRIBUTING.md) | Issues and pull requests |
-| Support FMODD | [English](support/SUPPORT.md) · [简体中文](support/SUPPORT.zh-CN.md) · [한국어](support/SUPPORT.ko-KR.md) |
+| Support upstream FMODD | [English](support/SUPPORT.md) · [简体中文](support/SUPPORT.zh-CN.md) · [한국어](support/SUPPORT.ko-KR.md) |
 
 ## Code and architecture · 代码与架构 · 코드 및 아키텍처
 

@@ -1,3 +1,23 @@
+# Football Manager ADD (FMADD)
+
+[English](README.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko-KR.md)
+
+FMADD is angsomeli's personal development fork of [Football Manager ODD](https://github.com/Kasnm1/football-manager-ODD). It inherits the V2.7.0beta source baseline, with compatibility determined by exact game builds.
+
+Planned work: personnel table/card switching, selectable columns, sorting, filters and saved views. Native sponsorship/stadium/city editing and new-player creation remain research topics, not completed features.
+
+- [Development plan](docs/development/PERSONAL_PROJECT_PLAN.zh-CN.md)
+- [FM26 reference projects](docs/development/FM26_REFERENCES.zh-CN.md)
+- [Documentation](docs/README.md) · [Development setup](docs/guides/GETTING_STARTED.md)
+- [ADD issues](https://github.com/angsomeli/football-manager-ADD/issues)
+
+Internal fmodd module names, configuration keys and build filenames remain compatible; The main web and desktop titles now use FMADD; remaining upstream UI copy and icons are being reviewed. Upstream downloads do not include ADD changes.
+
+Original authorship, upstream non-commercial-use requirements and third-party notices remain applicable. The original documentation below is retained for attribution and baseline reference. Its websites, donations, email and releases belong to **upstream FMODD**, not ADD.
+
+<details>
+<summary>Original FMODD documentation (upstream baseline)</summary>
+
 <div align="center">
 
 <img src="docs/assets/fmodd-banner.svg" alt="FMODD · Football Manager ODD · Club management, player development and match play" width="100%" />
@@ -147,3 +167,6 @@ FMODD is an unofficial community project, independent of Sports Interactive, SEG
 [Website](https://fmodd.com) &nbsp; / &nbsp; [Download](https://fmodd.com/download) &nbsp; / &nbsp; [Contribute](CONTRIBUTING.md)
 
 </div>
+
+
+</details>

@@ -153,7 +153,7 @@ namespace FMODDDesktop
             this.address = address;
             this.requestedProfilePath = profilePath;
             this.locale = NormalizeLocale(locale);
-            Text = "FMODD V2.7.0beta";
+            Text = "FMADD V2.7.0beta";
             ShowIcon = true;
             Width = 1500;
             Height = 920;
@@ -472,7 +472,7 @@ namespace FMODDDesktop
                 catch { }
                 MessageBox.Show(
                     UserText("startup.webview_failed"),
-                    "FMODD", MessageBoxButtons.OK, MessageBoxIcon.Error
+                    "FMADD", MessageBoxButtons.OK, MessageBoxIcon.Error
                 );
                 Close();
             }
